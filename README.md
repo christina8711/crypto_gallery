@@ -237,7 +237,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [license-shield]: https://img.shields.io/github/license/christina8711/Crypto_Gallery.svg?style=for-the-badge
 [license-url]: https://github.com/christina8711/Crypto_Gallery/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://icons8.com/icon/fXR756Rx92Jx/linkedin---in-logo-used-for-professional-networking%2C
 [linkedin-url]: https://www.linkedin.com/in/christinanguyen8711/
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
