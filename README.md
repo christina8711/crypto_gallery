@@ -36,7 +36,7 @@
 <h3 align="center">Crypto Gallery</h3>
 
   <p align="center">
-    At Shellhacks 2023, we're tackling the challenges posed by Google and Microsoft by creating a website that doubles as an educational platform for NFTs. Our platform also offers a virtual art exhibition where users can explore NFT art, dive into the world of featured crypto artists, and gain insights into the showcased artworks. Augmented Reality is incorporated for users with a mobile device, allowing them to visualize NFT art in their own space
+Short description of project
     <br />
     <a href="https://github.com/christina8711/Crypto_Gallery"><strong>Explore the docs »</strong></a>
     <br />
@@ -84,8 +84,19 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+**Project Overview**
 
+At Shellhacks 2023, we're tackling the challenges posed by Google and Microsoft by creating a website that doubles as an educational platform for NFTs. Our platform also offers a virtual art exhibition where users can explore NFT art, dive into the world of featured crypto artists, and gain insights into the showcased artworks. Augmented Reality is incorporated for users with a mobile device, allowing them to visualize NFT art in their own space.
+
+**Prototype Development**
+
+To bring our project to life, we leveraged the capabilities of ['Art Placer'][art-placer], an art market platform renowned for its interactive virtual spaces. With ['Art Placer'][art-placer], we seamlessly constructed the immersive virtual environment that forms the backbone of our concept. This virtual space enables users to explore our NFT art exhibition with remarkable interactivity.
+
+Within our ['Art Placer'][art-placer] virtual space, users can embark on a virtual tour, navigating through the NFT art exhibition. They can click on individual artworks to access a wealth of information, including essential details such as the Title, Artist, Gallery Price (in Ethereum), Date of creation, Medium (such as digital), and a comprehensive Art Description. We've also integrated links related to the artist, directing users to their NFT page and portfolio page for deeper engagement. For those interested in acquiring the artwork, a convenient 'Buy' button redirects users to the Opensea page, where they can make the purchase.
+
+This dynamic virtual space, created in ['Art Placer'][art-placer], has been seamlessly embedded into our prototype website on Figma. Through this integration, we offer a glimpse into our project's true vision, demonstrating the convergence of art, education, and technology that lies at its core. Our prototype reflects the culmination of our efforts to provide users with a holistic NFT art experience that transcends traditional boundaries.
+
+[art-placer]: <Link to Art Placer Platform>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
