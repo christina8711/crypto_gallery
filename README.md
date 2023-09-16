@@ -84,11 +84,11 @@ Short description of project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-##Project Overview
+## Project Overview
 
 At Shellhacks 2023, we're tackling the challenges posed by Google and Microsoft by creating a website that doubles as an educational platform for NFTs. Our platform also offers a virtual art exhibition where users can explore NFT art, dive into the world of featured crypto artists, and gain insights into the showcased artworks. Augmented Reality is incorporated for users with a mobile device, allowing them to visualize NFT art in their own space.
 
-##Prototype Development
+## Prototype Development
 
 To bring our project to life, we leveraged the capabilities of ['Art Placer'][art-placer], an art market platform renowned for its interactive virtual spaces. With ['Art Placer'][art-placer], we seamlessly constructed the immersive virtual environment that forms the backbone of our concept. This virtual space enables users to explore our NFT art exhibition with remarkable interactivity.
 
