@@ -29,8 +29,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/christina8711/crypto_gallery">
+    <img src="images/Crypto_Gallery.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Crypto Gallery</h3>
@@ -38,14 +38,14 @@
   <p align="center">
 Short description of project
     <br />
-    <a href="https://github.com/christina8711/Crypto_Gallery"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/christina8711/crypto_gallery"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/christina8711/Crypto_Gallery">View Demo</a>
+    <a href="https://github.com/christina8711/crypto_gallery">View Demo</a>
     ·
-    <a href="https://github.com/christina8711/Crypto_Gallery/issues">Report Bug</a>
+    <a href="https://github.com/christina8711/crypto_gallery/issues">Report Bug</a>
     ·
-    <a href="https://github.com/christina8711/Crypto_Gallery/issues">Request Feature</a>
+    <a href="https://github.com/christina8711/crypto_gallery/issues">Request Feature</a>
   </p>
 </div>
 
