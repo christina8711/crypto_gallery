@@ -58,6 +58,7 @@ Interactive and educational NFT art exhibition website for artists and art lover
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#inspiration">inspiration</a></li>
          <li><a href="#prototype-demo">Prototype Demo</a></li>
         <li><a href="#disclaimer">Disclaimer</a></li>
       </ul>
@@ -98,12 +99,18 @@ This dynamic virtual space, created in ['Art Placer'][art-placer], has been seam
 [art-placer]: https://www.artplacer.com/tools-for-artists-and-galleries/?gclid=CjwKCAjwpJWoBhA8EiwAHZFzfss-aNH2F_R07Lar48N52Jc5eiIZMVAs3EIpFIiXBotwrv-vdHZUzhoCgw8QAvD_BwE
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Inspiration
+
+"Crypto Gallery" was born out of a shared passion for art, technology, and education. We took on this challenge with the belief that the world of NFTs represents not just a groundbreaking innovation but also an opportunity to transform the way we interact with art. In the spirit of innovation and collaboration, we were inspired by the challenges set forth by Google and Microsoft at ShellHacks 2023. These challenges fueled our determination to create a platform that not only educates but also celebrates the incredible world of NFT art. Our project symbolizes the intersection of creativity and technology, where NFT artists can shine, and art enthusiasts can explore. We are driven by the vision of making art more accessible, immersive, and educational for everyone. This project is a testament to our dedication and the remarkable potential that emerges when talented individuals come together to create something meaningful. We hope "Crypto Gallery" inspires you as much as it has inspired us. It's not just about the art; it's about the journey, the education, and the shared experiences that await us in this vibrant NFT world. Thank you for joining us on this adventure.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Prototype Demo
 **Try Out Our Prototype:**
 
 ['Crypto Gallery Prototype'][Crypto_Gallery_P]
 
 [Crypto_Gallery_P]:https://www.figma.com/proto/0GpjNvYnQ2UOFGzLp2EGzn/Virtual-NFT-Art-Exhibition-Website?type=design&node-id=34-48&t=Pxd7q8JkwRSFcF6B-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=34%3A48&mode=design
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Disclaimer
 
@@ -212,7 +219,7 @@ Peter Nguyen - [![LinkedIn][linkedin-shield]][2linkedin-url] - pe264311@ucf.edu
 
 Tran Pham - [![LinkedIn][linkedin-shield]][3linkedin-url] - Tran.pham2@ucf.edu
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/christina8711/crypto_gallery)
+Project Link: [https://github.com/christina8711/crypto_gallery](https://github.com/christina8711/crypto_gallery)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
