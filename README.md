@@ -109,7 +109,7 @@ This dynamic virtual space, created in ['Art Placer'][art-placer], has been seam
 
 ['Crypto Gallery Prototype'][Crypto_Gallery_P]
 
-[Crypto_Gallery_P]:https://www.figma.com/proto/0GpjNvYnQ2UOFGzLp2EGzn/Virtual-NFT-Art-Exhibition-Website?type=design&node-id=34-48&t=Pxd7q8JkwRSFcF6B-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=34%3A48&mode=design
+[Crypto_Gallery_P]:https://www.figma.com/proto/0GpjNvYnQ2UOFGzLp2EGzn/Virtual-NFT-Art-Exhibition-Website?type=design&node-id=34-48&t=Pxd7q8JkwRSFcF6B-1&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=34%3A48
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Disclaimer
