@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/christina8711/crypto_gallery">
-    <img src="images/Crypto_Gallery.png" alt="Logo" width="460" height="260">
+    <img src="images/Thumbnail.png" alt="Logo" width="460" height="260">
   </a>
 
 <h3 align="center">Crypto Gallery</h3>
