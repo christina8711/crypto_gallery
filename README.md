@@ -30,13 +30,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/christina8711/crypto_gallery">
-    <img src="images/Crypto_Gallery.png" alt="Logo" width="80" height="80">
+    <img src="images/Crypto_Gallery.png" alt="Logo" width="460" height="260">
   </a>
 
 <h3 align="center">Crypto Gallery</h3>
 
   <p align="center">
-Short description of project
+Interactive and educational NFT art exhibition website for artists and art lovers to enjoy art in a public VR space
     <br />
     <a href="https://github.com/christina8711/crypto_gallery"><strong>Explore the docs »</strong></a>
     <br />
