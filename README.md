@@ -58,17 +58,16 @@ Interactive and educational NFT art exhibition website for artists and art lover
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+         <li><a href="#prototype-demo">Prototype Demo</a></li>
+        <li><a href="#disclaimer">Disclaimer</a></li>
       </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -82,7 +81,7 @@ Interactive and educational NFT art exhibition website for artists and art lover
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://www.figma.com/proto/0GpjNvYnQ2UOFGzLp2EGzn/Virtual-NFT-Art-Exhibition-Website?type=design&node-id=24-510&t=iFTDOoxP4ii7dCeN-1&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=34%3A48&mode=design)
 
 ## Project Overview
 
@@ -99,32 +98,37 @@ This dynamic virtual space, created in ['Art Placer'][art-placer], has been seam
 [art-placer]: https://www.artplacer.com/tools-for-artists-and-galleries/?gclid=CjwKCAjwpJWoBhA8EiwAHZFzfss-aNH2F_R07Lar48N52Jc5eiIZMVAs3EIpFIiXBotwrv-vdHZUzhoCgw8QAvD_BwE
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Prototype Demo
+**Try Out Our Prototype:**
 
+['Crypto Gallery Prototype'][Crypto_Gallery_P]
 
-### Built With
+[Crypto_Gallery_P]:https://www.figma.com/proto/0GpjNvYnQ2UOFGzLp2EGzn/Virtual-NFT-Art-Exhibition-Website?type=design&node-id=24-510&t=iFTDOoxP4ii7dCeN-1&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=34%3A48&mode=design
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+## Disclaimer
+
+**Important**: This project is designed to educate users about the concept of NFTs (Non-Fungible Tokens) and features a virtual reality (VR) space showcasing NFT art from various artists. It's important to note the following:
+
+1. **Ownership of NFT Art**: The NFT art featured in this project is the creative work of various artists, and we do not claim ownership of the art displayed. All featured artwork belongs to its respective creators.
+
+2. **Artist Credits**: we've made every effort to provide proper credit to the artists whose work is showcased in this project. You will find artist credits within the VR space or accompanying information.
+
+3. **Links to Art**: In an effort to support and promote the artists, we have included links to the respective artists' profiles on [OpenSea](https://opensea.io/), a popular NFT marketplace, where you may have the opportunity to purchase their art.
+
+4. **No Endorsement**: The inclusion of any artist's work or links to OpenSea does not imply endorsement or partnership with this project. The featured artists are not affiliated with this project unless otherwise stated.
+
+5. **Legal Considerations**: If you are an artist or copyright holder and have concerns about the use of your work in this project, please contact me immediately. we are committed to addressing any legitimate concerns and respecting intellectual property rights.
+
+6. **Educational Purpose**: This project primarily serves an educational purpose to help users learn about NFTs and appreciate the creativity of NFT artists. It is not intended for commercial use or profit.
+
+Please understand that while we've taken precautions to respect the rights of artists, errors or omissions may occur. If you notice any issues or have concerns, please reach out, and we will promptly address them. Your feedback is valuable in ensuring the responsible and ethical use of NFT art within this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
-## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+### Getting Started
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
   npm install npm@latest -g
@@ -132,44 +136,41 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. **Clone the repo:**
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/christina8711/crypto_gallery.git
    ```
-3. Install NPM packages
+   - This step clones the repository from GitHub to your local machine.
+
+2. **Navigate to the project directory:**
+   ```sh
+   cd crypto_gallery
+   ```
+   - Change your working directory to the newly cloned repository.
+
+3. **Install Node.js and npm (if not already installed):**
+   - Ensure that Node.js and npm are installed on your system. You can download them from the [official Node.js website](https://nodejs.org/).
+
+4. **Install project-specific dependencies:**
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+   - Use this command to install the project-specific Node.js packages and dependencies listed in the `package.json` file.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Create a publicly accessible virtual reality (VR) platform that seamlessly integrates with opensea.com
+- [ ] Create an interactive prototype that visually demonstrates our vision for the educational NFT art exhibition website
+- [ ] Establish a GitHub repository with react setup
+    - [ ] Code the frontend of the website
+    - [ ] Code the backend of the website
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/christina8711/crypto_gallery/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -178,7 +179,7 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what makes the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
@@ -205,9 +206,13 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Christina Nguyen - [![LinkedIn][linkedin-shield]][linkedin-url] - email@email_client.com
+Christina Nguyen - [![LinkedIn][linkedin-shield]][1linkedin-url] - ch487674@ucf.edu
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Peter Nguyen - [![LinkedIn][linkedin-shield]][2linkedin-url] - pe264311@ucf.edu
+
+Tran Pham - [![LinkedIn][linkedin-shield]][3linkedin-url] - Tran.pham2@ucf.edu
+
+Project Link: [https://github.com/github_username/repo_name](https://github.com/christina8711/crypto_gallery)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -216,11 +221,19 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+We would like to extend our gratitude to the following:
+
+- **Florida International University (FIU) and INIT:** We appreciate FIU and INIT for hosting ShellHacks Hackathon, which provided us with an incredible opportunity this weekend.
+
+- **Our Dedicated Team:** A big shoutout to our hardworking team for putting in tireless efforts all weekend to achieve our goals.
+
+- **Figma and Art Placer:** We want to acknowledge the invaluable role that Figma and Art Placer played in the development of our prototype, enabling us to bring our vision to life.
+
+- **OpenSea:** Special thanks to OpenSea for offering an exceptional learning section. It allowed us to reference and gain a deeper understanding of NFTs, contributing significantly to our project's success.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -236,22 +249,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [issues-url]: https://github.com/christina8711/Crypto_Gallery/issues
 [license-shield]: https://img.shields.io/github/license/christina8711/Crypto_Gallery.svg?style=for-the-badge
 [license-url]: https://github.com/christina8711/Crypto_Gallery/blob/master/LICENSE.txt
-[product-screenshot]: images/screenshot.png
-[linkedin-shield]: https://icons8.com/icon/fXR756Rx92Jx/linkedin---in-logo-used-for-professional-networking%2C
-[linkedin-url]: https://www.linkedin.com/in/christinanguyen8711/
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[product-screenshot]: images/WebSS.png
+[linkedin-shield]:https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&ilabelColor=blue
+[1linkedin-url]: https://www.linkedin.com/in/christinanguyen8711/
+[2linkedin-url]: https://www.linkedin.com/in/peterh-nguyen/
+[3linkedin-url]: https://www.linkedin.com/in/tranpham9/
